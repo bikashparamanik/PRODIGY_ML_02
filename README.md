@@ -31,4 +31,4 @@ In this project, we implement K-Means Clustering to segment customers based on t
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/(https://github.com/bikashparamanik)https://github.com/bikashparamanik/PRODIGY_ML/02.git
+   git clone https://github.com/bikashparamanik/PRODIGY_ML/02.git
