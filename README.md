@@ -8,8 +8,6 @@ A project focused on Customer Segmentation using K-Means Clustering, which allow
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## About
 
