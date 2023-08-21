@@ -25,8 +25,6 @@ In this project, we implement K-Means Clustering to segment customers based on t
 
 ### Prerequisites
 
-List any prerequisites here. For example:
-
 - Python 3.x
 - Jupyter Notebook
 
@@ -35,4 +33,4 @@ List any prerequisites here. For example:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+   git clone https://github.com/(https://github.com/bikashparamanik)https://github.com/bikashparamanik/PRODIGY_ML/02.git
